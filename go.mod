@@ -1,4 +1,4 @@
-module rocketbin-protos
+module github.com/karokojnr/rocketbin-protos
 
 go 1.21.4
 
